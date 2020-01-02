@@ -1,3 +1,1 @@
-# hello-world# Discount_on_sale_order_app_odoo
-# Xmlrpc_script_of_account_invoice_odoo
 # Xmlrpc_script_of_account_invoice_odoo
